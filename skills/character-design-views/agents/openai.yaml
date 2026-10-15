@@ -1,0 +1,6 @@
+interface:
+  display_name: "character design views"
+  short_description: "從一張角色圖製作三視圖與環境合成圖，再輸出六張一致造型的透明 PNG"
+  default_prompt: "使用 $character-design-views，依這張圖製作角色三視圖＋環境合成圖與六張透明視角 PNG。"
+policy:
+  allow_implicit_invocation: true
